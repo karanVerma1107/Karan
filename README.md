@@ -63,17 +63,6 @@ I specialize in crafting modular, high-performance applications with scalable RE
 - 🔍 Deepening data structure and algorithm mastery  
 - 📦 Building scalable microservice architectures  
 
----
-
-### 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanVerma1107&show_icons=true&theme=tokyonight" alt="Karan Verma's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanVerma1107&theme=tokyonight" alt="Karan Verma's GitHub streak" />
-</p>
 
 ---
 
